@@ -335,7 +335,7 @@ ActionButton.propTypes = {
   bgColor: PropTypes.string,
   bgOpacity: PropTypes.number,
   buttonColor: PropTypes.string,
-  buttonTextStyle: Text.propTypes.style,
+  buttonTextStyle: PropTypes.string,
   buttonText: PropTypes.string,
 
   offsetX: PropTypes.number,
